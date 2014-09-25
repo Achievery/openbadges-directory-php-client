@@ -1,0 +1,36 @@
+/***************************************************************************************************
+ * Document:  style.css
+ * Description:  Achievery API Library Build.  This is the simple css file that can be modified for layout updates.
+ * Invoked by:  index.php 
+ * Created by:  Achievery, 2014-09-06, https://www.achievery.com
+ ***************************************************************************************************/
+ 
+body {
+    background-color: #F5FAFF;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+    margin: 5em 10em;
+    border: 1px solid black;
+    padding: 5em;
+}
+
+
+/* index.php styling */
+.search-heading {
+   border-top: 1px solid black;
+   border-right: 1px solid black;
+   border-left: 1px solid black;
+   padding: 3em;
+}
+
+.main-search {
+   border: 1px solid black;
+   padding: 3em;
+   margin-bottom: 1em;
+}
+
+.alt-search {
+   border: 1px solid black;
+   padding: 3em;
+}
+ 
+
