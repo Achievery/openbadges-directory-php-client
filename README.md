@@ -3,10 +3,6 @@ Open Badges Directory PHP Client
 
 Open Badges Directory PHP Client v1.0 - Simple php-based library that allows site developers to integrate open badge directory searches into sites. 
 
-Copyright (c) 2014 Kerri Lemoie, Achievery - [achievery.com](http://achievery.com/)
-
-Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
-
 
 About
 =====
@@ -79,5 +75,5 @@ This configuration does not use any javascript, jQuery, or AJAX.  This does not 
 
 If you download from github as a zip or tar file, you will need to uncompress the files and place them manually into your site. 
 
-Your feedback and questions are welcomed and needed to make this better. Drop an email to hello@achievery.com or submit to the repo issues.
+Your feedback and questions are welcomed and needed to make this better. Drop an email to directory-support@badgealliance.org or submit issues.
 
